@@ -73,6 +73,9 @@ into the ***Azure Machine Learning*** experiment.
 -	On the left tab click **New>Data and Storage>Storage Account**
 -	Change the deployment model to *Classic* and click create.
 -	Set the name to aerospacetemplate[UI][N]
+-	Select the Performance option - Standard
+-	Select the Replication option – Zone-redundant storage (ZRS)
+-	Select the appropriate Subscription option
 -	Set the resource group to the resource group we created by selecting the link Choose Existing
 -	Location set to South Central US
 -	Click ***Create***
